@@ -3,7 +3,7 @@
     "proxy": "ngrok http -region ap 3000"
   },
   "dependencies": {
-    "ringcentral-chatbot": "^0.5.2",
+    "ringcentral-chatbot": "^0.5.3",
     "sqlite3": "^4.0.6"
   },
   "devDependencies": {
