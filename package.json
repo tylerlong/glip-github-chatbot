@@ -1,6 +1,8 @@
 {
+  "license": "MIT",
   "scripts": {
-    "proxy": "ngrok http -region ap 3000"
+    "proxy": "ngrok http -region ap 3000",
+    "server": "node -r dotenv-override-true/config express.js"
   },
   "dependencies": {
     "ringcentral-chatbot": "^0.5.3",
