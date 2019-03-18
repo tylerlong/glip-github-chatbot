@@ -29,3 +29,9 @@ yarn server
 ```
 curl -X PUT -u admin:password https://<chatbot-server>/admin/setup-database
 ```
+
+
+## Screeshots
+
+- ![](./screenshot1.png)
+- ![](./screenshot2.png)
